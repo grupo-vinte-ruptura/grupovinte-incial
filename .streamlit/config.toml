@@ -1,0 +1,12 @@
+[theme]
+# Cores primárias e de fundo (Verde e Branco)
+primaryColor="#4CAF50" # Um verde vibrante (pode ser alterado)
+backgroundColor="#FFFFFF" # Branco puro
+secondaryBackgroundColor="#F0F2F6" # Um cinza bem claro para seções secundárias
+textColor="#212121" # Texto em um cinza escuro, quase preto
+font="sans serif" # Fonte padrão
+
+# Cores para elementos interativos
+# Aqui, a cor primária é usada para elementos interativos como botões e checkboxes.
+# Podemos usar uma variação do verde ou um cinza escuro para contraste.
+# Para o tema verde e branco, manter a primaryColor para elementos interativos é bom.
